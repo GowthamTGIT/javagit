@@ -15,6 +15,7 @@ public static void main(String[] args)
 	ClientDetails c = new ClientDetails();
 	c.ClientId();
 	c.ClientName();
+c.ClientName();
 
 	
 }
